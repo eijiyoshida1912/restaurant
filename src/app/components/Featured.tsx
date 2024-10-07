@@ -33,7 +33,6 @@ const Featured = () => {
           </div>
         ))}
       </div>
-      Featured
     </div>
   );
 };
